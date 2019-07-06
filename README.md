@@ -1,2 +1,2 @@
 # food_aholic
-This is first and professional apps, trying to explore new things in android era
+This is our first and professional app, trying to explore new things in android era
